@@ -8,6 +8,20 @@ I've run tons of successful ad campaigns, with increasingly large budgets (handl
 
 I'm proud of the contributions I've made both in terms of large, successful campaigns, as well as lasting changes (e.g. building complex spreadsheets that automate daily/weekly/monthly tasks), but the work got fairly repetitive and wasn't all that difficult towards the end. I joined Makers, knowing I was capable of a lot more. Now I'm up-to-speed as a Junior Developer and ready to *really* start learning. 
 
+## Projects
+
+Please check out my pinned respositories for projects I'm most proud of. These include:
+
+https://github.com/rorybot/Team-Agotchi - A Tamagotchi clone built in my final two weeks at Makers Academy, as part of a group project. There is much I have to say about how I would clean up the code now that I have the time, but I'm still really proud of how much we built with a language we were all learning for the first time.
+
+https://github.com/rorybot/Single-Page-Notes-App - A very basic Notes app. Data is lost on refresh, and it simply takes in text and stores it to a link on the page. However, it is written in vanilla javascript, and renders on the page without refresh (AngularJS-style).
+
+https://github.com/rorybot/chitter-challenge - A simple Twitter clone, hosted on Heroku. Users can sign-up, leave a message, sign out again. You can only leave a message if signed in. Basic sinatra webapp. Nice MVC pattern and simple structure.
+
+https://github.com/rorybot/GildedRose - An approach to the Gilded Rose, and a nice example of OOD work. My approach was to convert it from the nested if-else statement that it was, to a set of objects injected into the Item class. These objects are then analysed by the main Gilded Rose class and used to decide which modifier to apply. 
+
+https://github.com/rorybot/tic-tac-toe - A simple tic-tac-toe game, but the goal was to practice good OOD and to make it something that could be easily plugged into any sort of interface (which meant keeping a clear track of the logic, of the public/private separation, and keeping clear what the input/outputs should be).
+
 ## Skills
 
 #### Project Management
