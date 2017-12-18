@@ -12,7 +12,7 @@ I wanted to do programming for a while now, since I always sat near the guys han
 
 Please check out my pinned respositories for projects I'm most proud of. These include:
 
-https://github.com/rorybot/Team-Agotchi - A Tamagotchi clone built in my final two weeks at Makers Academy, as part of a group project. I'm really proud of how much we built with a language we were all learning for the first time. The link there is to a fork I've been working on post-course, trying to clean up the code.
+https://github.com/rorybot/Team-Agotchi - A Tamagotchi clone built in my final two weeks at Makers Academy, as part of a group project. I'm really proud of how much we built with a language we were all learning for the first time. The link there is to a fork I've been working on post-course, trying to clean up the code. The only drawback is that, being a game, it was very hard to write tests for (versus other Repos below, which have much better test coverage).
 
 https://github.com/rorybot/Single-Page-Notes-App - A very basic Notes app. Data is lost on refresh, and it simply takes in text and stores it to a link on the page. However, it is written in vanilla javascript, without JQuery (part of the challenge was to use no libraries), and it uses a neat technique to render elements.
 
