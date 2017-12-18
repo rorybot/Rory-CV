@@ -1,18 +1,18 @@
 # Rory Hodgson
 
-I'm Rory. 
+I'm Rory - a recent graduate of Makers Academy, where I've become a pretty decent Junior Developer.
 
-I studied Philosophy at Uni, intent on becoming an academic. I realised profesional academia wasn't for me, so kept it as just a hobby once I graduated. Without anything I was passionate about outside Philosophy, I got into Digital Marketing (media planning and buyong on Google/Facebook/Twitter/etc), and did that for a few years before going freelance.
+Originally studying Philosophy at Uni, intent on becoming an academic, I attended a number of conferences, but realised profesional academia wasn't for me. I kept it as just a hobby once I graduated, but instead went to work in Digital Marketing, because I was enamoured with how precise and data-driven it was. I did planning and buying on Google/Facebook/Twitter/etc, and did that agency-side before going freelance.
 
-I've run tons of successful ad campaigns, with increasingly large budgets (handling multi-million pound budgets on PPC for some product launches) and with an international scope. I've been responsible for planning and executing projects, as well as client management. 
+I was responsible for a slew of successful campaigns, with increasingly large budgets (handling multi-million pound budgets on for some product launches), and working on an international scope. I'm proud of the contributions I made, both in terms of large, successful campaigns, as well as lasting changes (e.g. building complex spreadsheets that automate daily/weekly/monthly tasks), but the work got fairly repetitive and wasn't all that difficult towards the end. 
 
-I'm proud of the contributions I've made both in terms of large, successful campaigns, as well as lasting changes (e.g. building complex spreadsheets that automate daily/weekly/monthly tasks), but the work got fairly repetitive and wasn't all that difficult towards the end. I joined Makers, knowing I was capable of a lot more. Now I'm up-to-speed as a Junior Developer and ready to *really* start learning. 
+I wanted to do programming for a while now, since I always sat near the guys handling the actual coding side of things, and was jealous of how much more interesting their work was. Now I'm up-to-speed as a Junior Developer and... now I'm ready for the *real* learning to begin!
 
 ## Projects
 
 Please check out my pinned respositories for projects I'm most proud of. These include:
 
-https://github.com/rorybot/Team-Agotchi - A Tamagotchi clone built in my final two weeks at Makers Academy, as part of a group project. There is much I have to say about how I would clean up the code now that I have the time, but I'm still really proud of how much we built with a language we were all learning for the first time.
+https://github.com/rorybot/Team-Agotchi - A Tamagotchi clone built in my final two weeks at Makers Academy, as part of a group project. I'm really proud of how much we built with a language we were all learning for the first time. The link there is to a fork I've been working on post-course, trying to clean up the code.
 
 https://github.com/rorybot/Single-Page-Notes-App - A very basic Notes app. Data is lost on refresh, and it simply takes in text and stores it to a link on the page. However, it is written in vanilla javascript, and renders on the page without refresh (AngularJS-style).
 
@@ -21,6 +21,30 @@ https://github.com/rorybot/chitter-challenge - A simple Twitter clone, hosted on
 https://github.com/rorybot/GildedRose - An approach to the Gilded Rose, and a nice example of OOD work. My approach was to convert it from the nested if-else statement that it was, to a set of objects injected into the Item class. These objects are then analysed by the main Gilded Rose class and used to decide which modifier to apply. 
 
 https://github.com/rorybot/tic-tac-toe - A simple tic-tac-toe game, but the goal was to practice good OOD and to make it something that could be easily plugged into any sort of interface (which meant keeping a clear track of the logic, of the public/private separation, and keeping clear what the input/outputs should be).
+
+## CV
+If you prefer a more standard format CV, please find it below:
+https://drive.google.com/file/d/1Bg9eMfFDssA_ml1kPrDKVVf1vd0n2edW/view?usp=sharing
+
+Otherwise read on below for a riveting ride through my past work!
+
+## Experience
+
+January 2017 - August 2017: Freelance Performance Marketer, **Rory Hodgson LTD**
+
+August 2015 - December 2016: **Global Paid Search & Social AM, Maxus Global**
+
+January 2015 – July 2015: **Biddable AM, the7stars**
+
+January 2013 – January 2015: **Search Executive, Rocket**
+
+October 2012 – November 2012: **Search Assistant (Short-term contract), OMD**
+
+January 2012 – July 2012: **Receptionist, Torcroft Hotel**
+
+November 2011 – December 2011: **Sales colleague, ‘Curry’s’ electronics store (Seasonal)**
+
+July 2007 – July 2009: **Promotional Staff (Mash Marketing, Channel Advantage, Kommando, et al)**
 
 ## Skills
 
@@ -44,8 +68,6 @@ Closely related to the above, except I'd say managing the project was more about
 
 ## Education
 
-
-
 #### Makers Academy (August 2017 to Dec 2017)
 
 - 12 Weeks of study
@@ -62,22 +84,3 @@ Philosophy BA, University of York
 - Achieved a 2:1
 - Involved in Philosophy Soc and DramaSoc
 - Went out to America annually for Objectivist Philosophy Conferences
-
-## Experience
-
-January 2017 - August 2017: Freelance Performance Marketer, **Rory Hodgson LTD**
-
-August 2015 - December 2016: **Global Paid Search & Social AM, Maxus Global**
-
-January 2015 – July 2015: **Biddable AM, the7stars**
-
-January 2013 – January 2015: **Search Executive, Rocket**
-
-October 2012 – November 2012: **Search Assistant (Short-term contract), OMD**
-
-January 2012 – July 2012: **Receptionist, Torcroft Hotel**
-
-November 2011 – December 2011: **Sales colleague, ‘Curry’s’ electronics store (Seasonal)**
-
-July 2007 – July 2009: **Promotional Staff (Mash Marketing, Channel Advantage, Kommando, et al)**
-
