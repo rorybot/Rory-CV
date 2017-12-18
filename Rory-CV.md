@@ -14,7 +14,7 @@ Please check out my pinned respositories for projects I'm most proud of. These i
 
 https://github.com/rorybot/Team-Agotchi - A Tamagotchi clone built in my final two weeks at Makers Academy, as part of a group project. I'm really proud of how much we built with a language we were all learning for the first time. The link there is to a fork I've been working on post-course, trying to clean up the code.
 
-https://github.com/rorybot/Single-Page-Notes-App - A very basic Notes app. Data is lost on refresh, and it simply takes in text and stores it to a link on the page. However, it is written in vanilla javascript, and renders on the page without refresh (AngularJS-style).
+https://github.com/rorybot/Single-Page-Notes-App - A very basic Notes app. Data is lost on refresh, and it simply takes in text and stores it to a link on the page. However, it is written in vanilla javascript, without JQuery (part of the challenge was to use no libraries), and it uses a neat technique to render elements.
 
 https://github.com/rorybot/chitter-challenge - A simple Twitter clone, hosted on Heroku. Users can sign-up, leave a message, sign out again. You can only leave a message if signed in. Basic sinatra webapp. Nice MVC pattern and simple structure.
 
