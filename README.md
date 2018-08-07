@@ -1,32 +1,43 @@
 # Rory Hodgson
 
-I'm Rory - a recent graduate of Makers Academy, where I've become a pretty decent Junior Developer.
+I'm Rory - a recent graduate of Makers Academy. I left behind academia for the "real word" of Digital Marketing, with budgets and projections and data-led analysis. But I found it was still too soft and opinion-led, and I wanted to deal with hard problems, not just meetings and emails.
 
-Originally studying Philosophy at Uni, intent on becoming an academic, I attended a number of conferences, but realised profesional academia wasn't for me. I kept it as just a hobby once I graduated, but instead went to work in Digital Marketing, because I was enamoured with how precise and data-driven it was. I did planning and buying on Google/Facebook/Twitter/etc, and did that agency-side before going freelance.
+So I left behind what was actually a good career by gambling on a coding bootcamp. I was scared I might find I was the worst person in the class, but I actually found myself keeping and really enjoying what I was doing. I found myself lost for hours in trying to solve a problem, rather than watching the clock.
 
-I was responsible for a slew of successful campaigns, with increasingly large budgets (handling multi-million pound budgets on for some product launches), and working on an international scope. I'm proud of the contributions I made, both in terms of large, successful campaigns, as well as lasting changes (e.g. building complex spreadsheets that automate daily/weekly/monthly tasks), but the work got fairly repetitive and wasn't all that difficult towards the end. 
+In my previous life I was responsible for a slew of successful campaigns, with increasingly large budgets (handling multi-million pound budgets on for some product launches), and working on an international scope. I'm proud of the contributions I made, both in terms of large, successful campaigns, as well as lasting changes (e.g. building complex spreadsheets that automate daily/weekly/monthly tasks).
 
-I wanted to do programming for a while now, since I always sat near the guys handling the actual coding side of things, and was jealous of how much more interesting their work was. Now I'm up-to-speed as a Junior Developer and... now I'm ready for the *real* learning to begin!
+I learned a lot from my previous career, about team work, budgets, planning and client management, which I carry forward today, and which I think sets me apart from some of the younger guys in this field who have the same know-how, but can be a bit more of a liability given their lack of real world experience.
 
 ## Projects
 
 Please check out my pinned respositories for projects I'm most proud of. These include:
 
-https://github.com/rorybot/Team-Agotchi - A Tamagotchi clone built in my final two weeks at Makers Academy, as part of a group project. I'm really proud of how much we built with a language we were all learning for the first time. The link there is to a fork I've been working on post-course, trying to clean up the code. The only drawback is that, being a game, it was very hard to write tests for (versus other Repos below, which have much better test coverage).
+https://github.com/rorybot/Team-Agotchi
+Purpose: Build A Tamagotchi clone, for the final two week group project at Makers Academy, in a language and platform I hadn't used (Swift, for an iOS app)
 
-https://github.com/rorybot/Single-Page-Notes-App - A very basic Notes app. Data is lost on refresh, and it simply takes in text and stores it to a link on the page. However, it is written in vanilla javascript, without JQuery (part of the challenge was to use no libraries), and it uses a neat technique to render elements.
+What I learned: So many of the basic principles are the same, and yet when you go from RESTful apps to something like a Game, you have to adapt to the new architecture and requirements of the platform you're using, since the "Model-View-Controller" style didn't quite map
 
-https://github.com/rorybot/chitter-challenge - A simple Twitter clone, hosted on Heroku. Users can sign-up, leave a message, sign out again. You can only leave a message if signed in. Basic sinatra webapp. Nice MVC pattern and simple structure.
+https://github.com/rorybot/Single-Page-Notes-App 
+Purpose: Build a basic Notes app using pure javascript (no libraries except very basic HTTP library from Node; jQuery explicitly prohibited) that can handle storage and presentation of data.
 
-https://github.com/rorybot/GildedRose - An approach to the Gilded Rose, and a nice example of OOD work. My approach was to convert it from the nested if-else statement that it was, to a set of objects injected into the Item class. These objects are then analysed by the main Gilded Rose class and used to decide which modifier to apply. 
+What I learned: Why libraries are so useful, but how they can be a shortcut that hold you back from learning proper architecture. Also, while I like the neat rendering method we came up with, it was an example of over-complicating things somewhat.
 
-https://github.com/rorybot/tic-tac-toe - A simple tic-tac-toe game, but the goal was to practice good OOD and to make it something that could be easily plugged into any sort of interface (which meant keeping a clear track of the logic, of the public/private separation, and keeping clear what the input/outputs should be).
+https://github.com/rorybot/chitter-challenge
+Purpose: Build a simple Twitter clone. Basic RESTful server that takes Post requests when submitting a post, and Gets them for presentation. Also attributes them to users, who can only post when logged in (handles registration and login).
 
-## CV
-If you prefer a more standard format CV, please find it below:
-https://drive.google.com/file/d/1Bg9eMfFDssA_ml1kPrDKVVf1vd0n2edW/view?usp=sharing
+Tech used: Sinatara/Ruby, HTML, on a basic MVC structure.
 
-Otherwise read on below for a riveting ride through my past work!
+
+https://github.com/rorybot/GildedRose - 
+Purpose: Solve the Gilded Rose refactoring challenge. A nice example of OOD work. 
+My approach: My approach was to convert it from the nested if-else statement that it was, to a set of objects injected into the Item class. These objects are then analysed by the main Gilded Rose class and used to decide which modifier to apply.
+
+What I learned: I failed to write tests prior to refactoring, and doing it test-led would've saved me a lot of headaches where I had to mentally figure out if the code still worked, and would've given me direct feedback instaed.
+
+https://github.com/rorybot/tic-tac-toe - 
+Purpose: Create the underlying architecture for a simple tic-tac-toe game that could be plugged into any interface. The goal was to practice good OOD and to make it something that could be easily plugged into any sort of interface (which meant keeping a clear track of the logic, of the public/private separation, and keeping clear what the input/outputs should be).
+
+What I learned: There can sometimes be endless ways to skin a cat. I spent a lot of time moving code between classes, in a way that didn't necessarily make things clearer, instead of focusing on other methods of simplifaction.
 
 ## Experience
 
@@ -84,3 +95,9 @@ Philosophy BA, University of York
 - Achieved a 2:1
 - Involved in Philosophy Soc and DramaSoc
 - Went out to America annually for Objectivist Philosophy Conferences
+
+## CV
+If you prefer a more standard format CV, please find it below:
+https://drive.google.com/file/d/1Bg9eMfFDssA_ml1kPrDKVVf1vd0n2edW/view?usp=sharing
+
+Otherwise read on below for a riveting ride through my past work!
