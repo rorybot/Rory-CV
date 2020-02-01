@@ -2,6 +2,8 @@
 
 I'm Rory - a gaduate of Makers Academy, and a Full Stack developer coming up on about 2-3 years now. 
 
+Have a read of my professional experience here: https://rorybot.com/assets/RoryHodgson-CV.pdf
+
 Originally I was going to be an academic philosopher, looking at grad schools once I got my BA. But I left behind academia for the "real word" of Digital Marketing, where I was accountable to actual metrics. What I liked best about that was the data and analytics side, and not so much the presentations and meetings, so I took a gamble that coding was the thing for me, and it's really paid off. I love it.
 
 So I left behind what was actually a good career by gambling on a coding bootcamp. I was scared I might find I was the worst person in the class, but I actually found myself keeping and really enjoying what I was doing. I found myself lost for hours in trying to solve a problem, rather than watching the clock.
