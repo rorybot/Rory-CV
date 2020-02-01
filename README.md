@@ -1,16 +1,21 @@
 # Rory Hodgson
 
-I'm Rory - a recent graduate of Makers Academy. I left behind academia for the "real word" of Digital Marketing, with budgets and projections and data-led analysis. But I found it was still too soft and opinion-led, and I wanted to deal with hard problems, not just meetings and emails.
+I'm Rory - a gaduate of Makers Academy, and a Full Stack developer coming up on about 2-3 years now. 
+
+Originally I was going to be an academic philosopher, looking at grad schools once I got my BA. But I left behind academia for the "real word" of Digital Marketing, where I was accountable to actual metrics. What I liked best about that was the data and analytics side, and not so much the presentations and meetings, so I took a gamble that coding was the thing for me, and it's really paid off. I love it.
 
 So I left behind what was actually a good career by gambling on a coding bootcamp. I was scared I might find I was the worst person in the class, but I actually found myself keeping and really enjoying what I was doing. I found myself lost for hours in trying to solve a problem, rather than watching the clock.
 
-In my previous life I was responsible for a slew of successful campaigns, with increasingly large budgets (handling multi-million pound budgets on for some product launches), and working on an international scope. I'm proud of the contributions I made, both in terms of large, successful campaigns, as well as lasting changes (e.g. building complex spreadsheets that automate daily/weekly/monthly tasks).
-
-I learned a lot from my previous career, about team work, budgets, planning and client management, which I carry forward today, and which I think sets me apart from some of the younger guys in this field who have the same know-how, but can be a bit more of a liability given their lack of real world experience.
+I'm proud of the contributions I made as a marketer, both in terms of large, successful campaigns, as well as lasting changes (e.g. building complex spreadsheets for my team, to automate daily/weekly/monthly tasks). I was responsible for increasingly large budgets too (handling multi-million pound budgets on for some product launches), and working on an international scope. So there's a lot I learned along the way.
 
 ## Projects
 
 Please check out my pinned respositories for projects I'm most proud of. These include:
+
+https://github.com/rorybot/SpotifyXmasDJ
+Purpose: An app for mixing playlists together - specifically, mixing Christmas music into a regular playlist, producing a new playlist of shuffled music, so you can have Christmas sprinkled into your regular listening, rather than a 3 hour playlist of all xmas.
+
+What I learned: OAuth can be a little bit tricky, and I still have a bit to learn about more elegantly handling callbacks/promises.
 
 https://github.com/rorybot/Team-Agotchi
 Purpose: Build A Tamagotchi clone, for the final two week group project at Makers Academy, in a language and platform I hadn't used (Swift, for an iOS app)
@@ -21,11 +26,6 @@ https://github.com/rorybot/Single-Page-Notes-App
 Purpose: Build a basic Notes app using pure javascript (no libraries except very basic HTTP library from Node; jQuery explicitly prohibited) that can handle storage and presentation of data.
 
 What I learned: Why libraries are so useful, but how they can be a shortcut that hold you back from learning proper architecture. Also, while I like the neat rendering method we came up with, it was an example of over-complicating things somewhat.
-
-https://github.com/rorybot/chitter-challenge
-Purpose: Build a simple Twitter clone. Basic RESTful server that takes Post requests when submitting a post, and Gets them for presentation. Also attributes them to users, who can only post when logged in (handles registration and login).
-
-Tech used: Sinatara/Ruby, HTML, on a basic MVC structure.
 
 
 https://github.com/rorybot/GildedRose - 
@@ -38,24 +38,6 @@ https://github.com/rorybot/tic-tac-toe -
 Purpose: Create the underlying architecture for a simple tic-tac-toe game that could be plugged into any interface. The goal was to practice good OOD and to make it something that could be easily plugged into any sort of interface (which meant keeping a clear track of the logic, of the public/private separation, and keeping clear what the input/outputs should be).
 
 What I learned: There can sometimes be endless ways to skin a cat. I spent a lot of time moving code between classes, in a way that didn't necessarily make things clearer, instead of focusing on other methods of simplifaction.
-
-## Experience
-
-January 2017 - August 2017: Freelance Performance Marketer, **Rory Hodgson LTD**
-
-August 2015 - December 2016: **Global Paid Search & Social AM, Maxus Global**
-
-January 2015 – July 2015: **Biddable AM, the7stars**
-
-January 2013 – January 2015: **Search Executive, Rocket**
-
-October 2012 – November 2012: **Search Assistant (Short-term contract), OMD**
-
-January 2012 – July 2012: **Receptionist, Torcroft Hotel**
-
-November 2011 – December 2011: **Sales colleague, ‘Curry’s’ electronics store (Seasonal)**
-
-July 2007 – July 2009: **Promotional Staff (Mash Marketing, Channel Advantage, Kommando, et al)**
 
 ## Skills
 
